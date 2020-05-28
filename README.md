@@ -1,7 +1,7 @@
 # Java--DataStructures--And--FileReading
 
 
-Semester 4 Data Structures Course Project
+4th Semester Data Structures Course Project
 
 Birden fazla dosyayı okur ve sözlük sırasına göre BinarySearchTree'de saklar ve Heap oluşturur.
 
